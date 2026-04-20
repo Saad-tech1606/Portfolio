@@ -21,13 +21,6 @@
   </a>
 </p>
 
----
-
-## 🎥 Portfolio Preview
-
-<p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="90%" alt="https://saad-portfolio-mu-sable.vercel.app/"/>
-</p>
 
 ---
 
