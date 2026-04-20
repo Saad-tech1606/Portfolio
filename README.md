@@ -118,22 +118,25 @@ Portfolio/
 ```
 
 ---
-💼 Hire Me
+## 💼 Hire Me
 <p align="center"> 🚀 Open to <b>Internships</b> • <b>Full-Time Roles</b> • <b>Freelance Projects</b> </p> <p align="center"> <a href="mailto:saadalam3076@gmail.com"> <img src="https://img.shields.io/badge/📧%20Email%20Me-Contact-red?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/md-saad-alam-41a0bb256/"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge"/> </a> <a href="https://github.com/Saad-tech1606"> <img src="https://img.shields.io/badge/💻%20GitHub-View%20Profile-black?style=for-the-badge"/> </a> </p>
-
-👀 Visitors
+--
+## 👀 Visitors
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Saad-tech1606&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
+--
 
-🏆 Achievements
-🥇 Smart India Hackathon (Team Leader – 2024 & 2025)
-📜 Research Publication (IJFMR)
-💼 AICTE Edunet Internship
-🏢 JP Morgan, Accenture, Amazon Simulations
+## 🏆 Achievements
+-🥇 Smart India Hackathon (Team Leader – 2024 & 2025)
+-📜 Research Publication (IJFMR)
+-💼 AICTE Edunet Internship
+-🏢 JP Morgan, Accenture, Amazon Simulations
+--
 
-🌈 Future Improvements
-🌐 Deployment (Vercel / Netlify)
-🤖 AI Chat Assistant
-📊 Admin Dashboard
-🧾 Blog Section
+## 🌈 Future Improvements
+-🌐 Deployment (Vercel / Netlify)
+-🤖 AI Chat Assistant
+-📊 Admin Dashboard
+-🧾 Blog Section
+--
 
 <p align="center"> 🚀 Built with passion by <b>Md Saad Alam</b> </p> ```
