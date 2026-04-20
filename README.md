@@ -1,16 +1,147 @@
-# React + Vite
+# 🚀 Md Saad Alam – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+Impactful+Projects" />
+</p>
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌟 Overview
 
-## React Compiler
+💼 This is my **personal developer portfolio website** showcasing my:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🚀 Projects (AI, Full Stack, Data Analytics)
+- 📊 GitHub Stats
+- 🎓 Education & Certifications
+- 💼 Experience & Industry Simulations
+- 🧠 Skills (Technical + Soft Skills)
+- 📄 Research Publication
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎯 Live Preview
+
+👉 **[Visit Portfolio](http://localhost:5173/)**  
+*(Update after deployment)*
+
+---
+
+## 🧩 Tech Stack
+
+### 💻 Frontend
+- ⚛️ React.js (Vite)
+- 🎨 Tailwind CSS
+- ✨ Framer Motion (Animations)
+
+### 🧠 Backend
+- 🌐 Node.js (for visit tracking)
+- 📡 REST APIs
+
+### 📊 Other Tools
+- 🐍 Python (ML Projects)
+- 🤖 HuggingFace / PyTorch
+- 🗄️ MongoDB / MySQL
+- 🔗 Git & GitHub
+
+---
+
+## 🧱 Project Structure
+Portfolio/
+│
+├── public/
+│ ├── favicon.svg
+│ └── research-paper.pdf
+│
+├── src/
+│ ├── backend/
+│ ├── components/
+│ │ ├── About.jsx
+│ │ ├── Certifications.jsx
+│ │ ├── Contact.jsx
+│ │ ├── Education.jsx
+│ │ ├── Experience.jsx
+│ │ ├── GithubStats.jsx
+│ │ ├── Hero.jsx
+│ │ ├── Projects.jsx
+│ │ ├── Research.jsx
+│ │ ├── Skills.jsx
+│ │ ├── Timeline.jsx
+│ │ └── ThreeScene.jsx
+│ │
+│ ├── App.jsx
+│ ├── main.jsx
+│ └── index.css
+│
+├── index.html
+├── package.json
+└── vite.config.js
+
+
+---
+
+## ✨ Features
+
+🔥 **Modern UI/UX**
+- Glassmorphism design
+- Gradient themes
+- Smooth animations
+
+🧠 **AI + Engineering Focus**
+- NLP Projects
+- ML Models
+- Data Analytics dashboards
+
+📊 **GitHub Integration**
+- Auto-updating stats
+- Language breakdown
+- Contribution tracking
+
+📄 **Research Section**
+- Published paper integration
+- DOI + Journal links
+
+💼 **Professional Experience**
+- Internship (Edunet Foundation)
+- JP Morgan Simulation
+- Accenture Simulation
+- Amazon Simulation
+
+---
+
+## 🚀 Projects Highlights
+
+- 🧠 Multilingual Hate Speech Detection (XLM-RoBERTa)
+- 🌐 Civic Issue Reporting Platform (SIH 2025)
+- 🏥 Smart Hospital Management System (SIH 2024)
+- 🏡 Harly England Real Estate Website (Freelance)
+- 📊 Airbnb & Netflix Data Analysis (Edunet Internship)
+- 🖼️ Image Enhancement (ML-based)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saad-tech1606&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saad-tech1606&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saad-tech1606&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/your-repo.git
+
+# Navigate
+cd Portfolio
+
+# Install dependencies
+npm install
+
+# Run project
+npm run dev
