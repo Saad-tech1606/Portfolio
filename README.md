@@ -16,7 +16,7 @@
 ## 🌐 Live Website
 
 <p align="center">
-  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+  <a href="https://saad-portfolio-mu-sable.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-purple?style=for-the-badge&logo=vercel" />
   </a>
 </p>
@@ -26,7 +26,7 @@
 ## 🎥 Portfolio Preview
 
 <p align="center">
-  <img src="YOUR_GIF_LINK_HERE" width="90%" alt="Portfolio Preview"/>
+  <img src="YOUR_GIF_LINK_HERE" width="90%" alt="https://saad-portfolio-mu-sable.vercel.app/"/>
 </p>
 
 ---
