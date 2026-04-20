@@ -1,121 +1,56 @@
 # 🚀 Md Saad Alam – Developer Portfolio
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=9F7AEA&center=true&vCenter=true&width=800&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Building+Real-World+Impactful+Projects" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Building AI-driven systems, scalable web applications, and real-world problem solving solutions.
 </p>
 
 ---
 
-## 🌟 Overview
+## 🌐 Live Website
 
-💼 This is my **personal developer portfolio website** showcasing my:
-
-- 🚀 Projects (AI, Full Stack, Data Analytics)
-- 📊 GitHub Stats
-- 🎓 Education & Certifications
-- 💼 Experience & Industry Simulations
-- 🧠 Skills (Technical + Soft Skills)
-- 📄 Research Publication
+<p align="center">
+  <a href="https://your-portfolio-link.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-Visit%20Now-purple?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Live Preview
+## 🎥 Portfolio Preview
 
-👉 **[Visit Portfolio](http://localhost:5173/)**  
-*(Update after deployment)*
-
----
-
-## 🧩 Tech Stack
-
-### 💻 Frontend
-- ⚛️ React.js (Vite)
-- 🎨 Tailwind CSS
-- ✨ Framer Motion (Animations)
-
-### 🧠 Backend
-- 🌐 Node.js (for visit tracking)
-- 📡 REST APIs
-
-### 📊 Other Tools
-- 🐍 Python (ML Projects)
-- 🤖 HuggingFace / PyTorch
-- 🗄️ MongoDB / MySQL
-- 🔗 Git & GitHub
-
----
-
-## 🧱 Project Structure
-Portfolio/
-│
-├── public/
-│ ├── favicon.svg
-│ └── research-paper.pdf
-│
-├── src/
-│ ├── backend/
-│ ├── components/
-│ │ ├── About.jsx
-│ │ ├── Certifications.jsx
-│ │ ├── Contact.jsx
-│ │ ├── Education.jsx
-│ │ ├── Experience.jsx
-│ │ ├── GithubStats.jsx
-│ │ ├── Hero.jsx
-│ │ ├── Projects.jsx
-│ │ ├── Research.jsx
-│ │ ├── Skills.jsx
-│ │ ├── Timeline.jsx
-│ │ └── ThreeScene.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── index.css
-│
-├── index.html
-├── package.json
-└── vite.config.js
-
+<p align="center">
+  <img src="YOUR_GIF_LINK_HERE" width="90%" alt="Portfolio Preview"/>
+</p>
 
 ---
 
 ## ✨ Features
 
-🔥 **Modern UI/UX**
-- Glassmorphism design
-- Gradient themes
-- Smooth animations
-
-🧠 **AI + Engineering Focus**
-- NLP Projects
-- ML Models
-- Data Analytics dashboards
-
-📊 **GitHub Integration**
-- Auto-updating stats
-- Language breakdown
-- Contribution tracking
-
-📄 **Research Section**
-- Published paper integration
-- DOI + Journal links
-
-💼 **Professional Experience**
-- Internship (Edunet Foundation)
-- JP Morgan Simulation
-- Accenture Simulation
-- Amazon Simulation
+- 🔥 Modern Glassmorphism UI  
+- ⚡ Smooth Animations & Interactive Design  
+- 📊 GitHub Live Stats Integration  
+- 📄 Research Publication Section  
+- 💼 Experience + Industry Simulations  
+- 🧠 AI + Full Stack Projects  
+- 📱 Fully Responsive  
 
 ---
 
-## 🚀 Projects Highlights
+## 🚀 Projects
 
-- 🧠 Multilingual Hate Speech Detection (XLM-RoBERTa)
-- 🌐 Civic Issue Reporting Platform (SIH 2025)
-- 🏥 Smart Hospital Management System (SIH 2024)
-- 🏡 Harly England Real Estate Website (Freelance)
-- 📊 Airbnb & Netflix Data Analysis (Edunet Internship)
-- 🖼️ Image Enhancement (ML-based)
+- 🧠 Multilingual Hate Speech Detection (XLM-RoBERTa)  
+- 🌐 Civic Issue Reporting Platform (SIH 2025)  
+- 🏥 Smart Hospital Management System (SIH 2024)  
+- 🏡 Harly England Real Estate Website (Freelance)  
+- 📊 Airbnb & Netflix Analysis (Edunet Internship)  
+- 🖼️ Image Enhancement (Machine Learning Project)  
 
 ---
 
@@ -131,17 +66,72 @@ Portfolio/
 
 ---
 
-## 📦 Installation
+## 🧱 Project Structure
 
 ```bash
-# Clone repository
-git clone https://github.com/your-username/your-repo.git
+Portfolio/
+├── public/
+│   ├── icons/
+│   │   ├── github.png
+│   │   ├── gmail.webp
+│   │   ├── linkedin.jpeg
+│   │   ├── location.png
+│   │   └── phone.webp
+│   │
+│   ├── favicon.svg
+│   └── research-paper.pdf
+│
+├── src/
+│   ├── assets/
+│   │   └── Md Saad Alam.jpeg
+│   │
+│   ├── backend/
+│   │   ├── data.json
+│   │   └── server.js
+│   │
+│   ├── components/
+│   │   ├── About.jsx
+│   │   ├── Certifications.jsx
+│   │   ├── Contact.jsx
+│   │   ├── Education.jsx
+│   │   ├── Experience.jsx
+│   │   ├── GithubStats.jsx
+│   │   ├── Hero.jsx
+│   │   ├── Modal.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Research.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Timeline.jsx
+│   │   └── ThreeScene.jsx
+│   │
+│   ├── App.jsx
+│   ├── App.css
+│   ├── index.css
+│   └── main.jsx
+│
+├── index.html
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── eslint.config.js
+└── README.md
 
-# Navigate
-cd Portfolio
+💼 Hire Me
+<p align="center"> 🚀 Open to <b>Internships</b> • <b>Full-Time Roles</b> • <b>Freelance Projects</b> </p> <p align="center"> <a href="mailto:saadalam3076@gmail.com"> <img src="https://img.shields.io/badge/📧%20Email%20Me-Contact-red?style=for-the-badge"/> </a> <a href="https://www.linkedin.com/in/md-saad-alam-41a0bb256/"> <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-blue?style=for-the-badge"/> </a> <a href="https://github.com/Saad-tech1606"> <img src="https://img.shields.io/badge/💻%20GitHub-View%20Profile-black?style=for-the-badge"/> </a> </p>
 
-# Install dependencies
-npm install
+👀 Visitors
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Saad-tech1606&label=Profile%20Views&color=blueviolet&style=for-the-badge" /> </p>
 
-# Run project
-npm run dev
+🏆 Achievements
+🥇 Smart India Hackathon (Team Leader – 2024 & 2025)
+📜 Research Publication (IJFMR)
+💼 AICTE Edunet Internship
+🏢 JP Morgan, Accenture, Amazon Simulations
+
+🌈 Future Improvements
+🌐 Deployment (Vercel / Netlify)
+🤖 AI Chat Assistant
+📊 Admin Dashboard
+🧾 Blog Section
+
+<p align="center"> 🚀 Built with passion by <b>Md Saad Alam</b> </p> ```
