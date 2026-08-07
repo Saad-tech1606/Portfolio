@@ -16,7 +16,7 @@ export default function Education() {
 
       <div className="max-w-5xl mx-auto space-y-10">
 
-        {/* 🎓 CIEM */}
+        {/* 🎓 TMSL */}
         <motion.div
           initial={{ opacity: 0, y: 40 }}
           whileInView={{ opacity: 1, y: 0 }}
@@ -26,26 +26,36 @@ export default function Education() {
         >
           <div className="bg-[#0B0F19]/90 backdrop-blur-xl p-8 rounded-2xl border border-white/10 shadow-xl">
 
-            <h3 className="text-xl md:text-2xl font-semibold text-white">
-              Bachelor of Technology – Computer Science Engineering
-            </h3>
+           <h3 className="text-xl md:text-2xl font-semibold text-white">
+  Bachelor of Technology (B.Tech) – Computer Science & Engineering
+</h3>
 
-            <p className="text-purple-400 mt-2">
-              Calcutta Institute of Engineering & Management (CIEM)
-            </p>
+<p className="text-purple-400 mt-2 font-medium">
+  Techno Main Salt Lake (TMSL), Kolkata
+</p>
 
-            <p className="text-sm text-gray-400 mt-1">
-              2022 – 2026 | CGPA: 7.5
-            </p>
+<p className="text-sm text-gray-400 mt-1">
+  2022 – 2026 &nbsp; | &nbsp; CGPA: <span className="text-white font-semibold">7.43</span>
+</p>
 
-            <p className="text-gray-300 mt-4 text-sm">
-              Strong focus on Data Structures, Algorithms, and Software Development.
-            </p>
+<p className="text-gray-300 mt-4 text-sm leading-7">
+  Successfully completed a Bachelor's degree in Computer Science & Engineering
+  with a strong foundation in <span className="text-white">Artificial Intelligence</span>,
+  <span className="text-white"> Machine Learning</span>,
+  <span className="text-white"> Natural Language Processing</span>,
+  <span className="text-white"> Computer Vision</span>, and
+  <span className="text-white"> Full-Stack Development</span>. Built multiple
+  AI-powered applications, transformer-based NLP systems, REST APIs, and
+  end-to-end software projects.
+</p>
 
-            <p className="text-gray-400 mt-2 text-sm">
-              <span className="text-white font-medium">Relevant Coursework:</span>{" "}
-              Data Structures, DBMS, Operating Systems, Machine Learning, Image Processing
-            </p>
+<p className="text-gray-400 mt-4 text-sm leading-7">
+  <span className="text-white font-semibold">Relevant Coursework:</span>{" "}
+  Data Structures & Algorithms, Database Management Systems (DBMS),
+  Operating Systems, Software Engineering, Machine Learning,
+  Artificial Intelligence, Image Processing,
+  Computer Networks, Object-Oriented Programming (OOP).
+</p>
 
           </div>
         </motion.div>

@@ -36,7 +36,7 @@ export default function About() {
         >
           I am a{" "}
           <span className="text-purple-400 font-semibold">
-            Computer Science Engineering student
+            Computer Science Engineering graduate
           </span>{" "}
           specializing in{" "}
           <span className="text-purple-400">Artificial Intelligence</span>,{" "}
