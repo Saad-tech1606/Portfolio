@@ -4,7 +4,6 @@
 
 ### AI & Machine Learning Engineer | Full Stack Developer | Computer Vision & NLP Enthusiast
 
-<img src="https://raw.githubusercontent.com/Saad-tech1606/Portfolio/main/public/preview.png" width="100%" alt="Portfolio Banner">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-8A2BE2?style=for-the-badge)](https://saad-portfolio-mu-sable.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Saad--tech1606-181717?style=for-the-badge&logo=github)](https://github.com/Saad-tech1606)
@@ -274,11 +273,11 @@ https://saad-portfolio-mu-sable.vercel.app/
 
 LinkedIn
 
-(Add your LinkedIn)
+https://www.linkedin.com/in/md-saad-alam-41a0bb256/
 
 Email
 
-(Add your email)
+saadalam3076@gmail.com
 
 ---
 
